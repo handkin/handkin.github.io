@@ -1,5 +1,5 @@
 ---
-title : 딥러닝(deeplearning) 개발환경 설정
+title : 딥러닝(Deeplearning) 개발환경 설정
 date : 2022-09-21 15:22:00 +09:00
 categories : [프로그래밍, 딥러닝]
 tags : [deeplearning, anaconda] #소문자만 가능
@@ -20,7 +20,7 @@ tags : [deeplearning, anaconda] #소문자만 가능
 
 이 방법은 우분투(Ubuntu)기준으로 작성되었으며 아나콘다를 설치하는 방법은 다음과 같다.  
 [아나콘다 공식 사이트](https://www.anaconda.com/)에 접속하여 메인화면 중앙에 위치한 다운로드를 눌러준다.  
-![아나콘다 이미지](./img/Anaconda-main.png)
+![아나콘다 이미지](/_posts/img/2022-09-21-set_deeplearing/Anaconda-main.png)
 다운로드가 완료되면 다운로드 폴더를 열어준다.  
 ```shell
 $ cd ~/Downloads
